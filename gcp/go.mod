@@ -2,9 +2,7 @@ module github.com/maito1201/hatebucord/gcp
 
 go 1.18
 
-replace github.com/maito1201/hatebucord => ../
-
-require github.com/maito1201/hatebucord v0.0.0-00010101000000-000000000000
+require github.com/maito1201/hatebucord v0.0.0-20220503094425-6362689231c7
 
 require (
 	github.com/PuerkitoBio/goquery v1.8.0 // indirect
