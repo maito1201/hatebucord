@@ -1,4 +1,4 @@
-module example.com/cmd
+module github.com/maito1201/hatebucord/gcp
 
 go 1.18
 
